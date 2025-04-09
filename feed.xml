@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Booman Will</title>
+    <link href="https://BoomanWill.github.io/feed.xml" rel="self" />
+    <link href="https://BoomanWill.github.io" />
+    <updated>2025-04-09T08:34:41+01:00</updated>
+    <author>
+        <name>Will Stanger</name>
+    </author>
+    <id>https://BoomanWill.github.io</id>
+
+    <entry>
+        <title>First Post</title>
+        <author>
+            <name>Will Stanger</name>
+        </author>
+        <link href="https://BoomanWill.github.io/first-post.html"/>
+        <id>https://BoomanWill.github.io/first-post.html</id>
+
+        <updated>2025-04-09T08:34:41+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Test Post this is a test
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 id="test-post">Test Post</h2>
+<p>this is a test</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

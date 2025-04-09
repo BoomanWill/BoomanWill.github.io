@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://BoomanWill.github.io/sitemap.xml
