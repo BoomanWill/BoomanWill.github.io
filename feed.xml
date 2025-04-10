@@ -3,7 +3,7 @@
     <title>Will Stanger</title>
     <link href="https://BoomanWill.github.io/feed.xml" rel="self" />
     <link href="https://BoomanWill.github.io" />
-    <updated>2025-04-10T17:22:32+01:00</updated>
+    <updated>2025-04-10T17:43:35+01:00</updated>
     <author>
         <name>Will Stanger</name>
     </author>
@@ -21,12 +21,12 @@
         <updated>2025-04-10T12:35:38+01:00</updated>
             <summary>
                 <![CDATA[
-                    is this inline? $$ \int x^2 dx $$ no is this inline $x^2$
+                    A couple of weeks ago I came across this site having watched a livestream by James Munro on twitch where he went through the page&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>is this inline? $$ \int x^2 dx $$ no</p><p>is this inline $x^2$</p>
+                <p>A couple of weeks ago I came across <a href="https://penteract.github.io/pythagTree.html">this</a> site having watched a livestream by James Munro on twitch where he went through the page and tried to understand what was going on.</p><p>Basically, a PhD student at MIT had used whats called a discrete finite automaton to calculate the area of the pythagoras tree, a fractal which, due to a complicated set of overlapping squares, no one had found the area of. On his livestream, James Munro used a much simpler example which he called the cat fractal to understand the method, which I will attempt to present in writing here.</p>
             ]]>
         </content>
     </entry>
