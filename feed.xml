@@ -3,30 +3,30 @@
     <title>Will Stanger</title>
     <link href="https://BoomanWill.github.io/feed.xml" rel="self" />
     <link href="https://BoomanWill.github.io" />
-    <updated>2025-04-09T08:34:41+01:00</updated>
+    <updated>2025-04-10T17:22:32+01:00</updated>
     <author>
         <name>Will Stanger</name>
     </author>
     <id>https://BoomanWill.github.io</id>
 
     <entry>
-        <title>First Post</title>
+        <title>Calculating the Area of Fractals with Automata</title>
         <author>
             <name>Will Stanger</name>
         </author>
-        <link href="https://BoomanWill.github.io/first-post.html"/>
-        <id>https://BoomanWill.github.io/first-post.html</id>
+        <link href="https://BoomanWill.github.io/calculating-the-area-of-fractals-with-automata/"/>
+        <id>https://BoomanWill.github.io/calculating-the-area-of-fractals-with-automata/</id>
+            <category term="Maths"/>
 
-        <updated>2025-04-09T08:34:41+01:00</updated>
+        <updated>2025-04-10T12:35:38+01:00</updated>
             <summary>
                 <![CDATA[
-                    Test Post this is a test
+                    is this inline? $$ \int x^2 dx $$ no is this inline $x^2$
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <h2 id="test-post">Test Post</h2>
-<p>this is a test</p>
+                <p>is this inline? $$ \int x^2 dx $$ no</p><p>is this inline $x^2$</p>
             ]]>
         </content>
     </entry>
